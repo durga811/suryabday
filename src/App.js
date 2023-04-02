@@ -32,7 +32,7 @@ function App() {
         </p>
         <p class="text-xl md:text-2xl pt-10 " style={{ color: "#D27685" }}>
           INFRONT OF - SD HALL OF RESIDANCE <br />
-          APRIL 3, 2023, FRIDAY <br /> CEREMONY STARTS AT 11.45 P.M
+          APRIL 3, 2023, MONDAY <br /> CEREMONY STARTS AT 11.45 P.M
         </p>
         <p className="text-xl m-4 " style={{ color: "#efa2d8" }}>
           
